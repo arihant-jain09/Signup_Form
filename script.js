@@ -21,7 +21,7 @@ form.addEventListener('submit', function (e) {
   message.textContent = 'Sign-Up Successful!';
   message.style.color = 'green';
 
-  // Clear the form
+  
   username.value = '';
   email.value = '';
   password.value = '';
